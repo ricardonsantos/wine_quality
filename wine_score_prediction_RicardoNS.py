@@ -9,7 +9,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-get_ipython().magic('matplotlib inline')
 import seaborn as sns
 from pylab import rcParams
 
@@ -318,7 +317,6 @@ oraculo(X, y,models,params)
 
 # ## Estudo 3 - Utilizando método de regressão com Gradient Boosting
 
-# In[206]:
 
 from sklearn.ensemble import GradientBoostingClassifier,GradientBoostingRegressor
 params = {'model__max_depth':range(2,4),'model__n_estimators':range(50,951,100),
