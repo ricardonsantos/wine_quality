@@ -36,4 +36,4 @@ Para validar cada um dos modelos, o processo escolhido foi: (i) a separação do
 
 #### e. Quais evidências você possui de que seu modelo é suficientemente bom?
 
-O melhor modelo obtido apresentou valores de MAE 0,43 e acurácia de 0,67. Por essas métricas podemos considerar que o modelo possui uma capacidade de descriminar o escore correto entre valores vizinhos, ou seja, com erro de estimativa menor que metade da diferença de valor entre scores vizinhos (i.e. MAE < 0,5). Além disso, podemos estimar que o modelo possui uma acurácia em identificar o score correto entre 2 valores bem acima da aleatoriedade (i.e. acurácia > 0,5).
+O melhor modelo obtido apresentou valores de MAE 0,38 e acurácia de 0,67. Por essas métricas podemos considerar que o modelo possui uma capacidade de descriminar o escore correto entre valores vizinhos, ou seja, com erro de estimativa menor que metade da diferença de valor entre scores vizinhos (i.e. MAE < 0,5). Além disso, podemos estimar que o modelo possui uma acurácia em identificar o score correto entre 2 valores bem acima da aleatoriedade (i.e. acurácia > 0,5).
