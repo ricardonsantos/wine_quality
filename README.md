@@ -3,12 +3,12 @@ Avaliação de uma base de dados de qualidade de vinhos utilizando métodos de m
 
 Os estudos apresentados no jupyter-notebook que acompanha este projeto foram desenvolvidos considerando as seguintes ferramentas computacionais e respectivas versões:
 
-python versão 3.5
-anaconda versão 
-pandas versão 
-scikit-learn versão 0.20.3
-seaborn versão
-MORD versão
+  python versão 3.5
+  anaconda versão 
+  pandas versão 
+  scikit-learn versão 0.20.3
+  seaborn versão
+  MORD versão
 
 Caminho da base de dados utilizada: https://drive.google.com/open?id=1-oG5-kBt9xQ3Li4PEexpiA9_7RZhRM1f
 
